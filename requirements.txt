@@ -1,0 +1,9 @@
+torch==2.0.1
+transformers
+accelerate
+sentencepiece
+
+numpy
+tokenizers>=0.13.3
+wandb
+deepspeed
